@@ -1,3 +1,3 @@
-email = ''
-psd = ''
-chromium_path = ''
+email = 'testing'
+psd = 'testing'
+chromium_path = 'testing'
